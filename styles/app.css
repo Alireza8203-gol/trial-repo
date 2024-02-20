@@ -25,3 +25,23 @@ body {
   width: 100px;
   aspect-ratio: 4 / 6;
 }
+
+.hero-section__location {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+
+.hero-section__caption {
+
+}
+
+.hero-section__link {
+  background-color: cyan;
+  /* width: 20px; */
+  /* height: 20px; */
+  padding: 1rem 2.5rem;
+  border-radius: 2rem;
+  margin: 1rem auto;
+}
