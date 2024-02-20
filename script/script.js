@@ -5,4 +5,4 @@ let clickHandler = (e) => {
     alert('You have Clicked on the Photo')
 }
 
-addEventListener('click', clickHandler)
+heroSection.addEventListener('click', clickHandler)
